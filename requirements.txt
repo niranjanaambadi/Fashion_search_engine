@@ -1,0 +1,51 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pillow>=9.0.0
+
+# Training and evaluation
+tqdm>=4.65.0
+tensorboard>=2.12.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Model analysis
+torchinfo>=1.8.0
+
+# Configuration
+pyyaml>=6.0
+omegaconf>=2.3.0
+
+# Experiment tracking (optional)
+wandb>=0.15.0
+
+# ONNX export
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Fast similarity search
+faiss-cpu>=1.7.4  # Use faiss-gpu for GPU support
+
+# Utilities
+opencv-python>=4.7.0
+pandas>=1.5.0
+
+# Development
+pytest>=7.3.0
+pytest-cov>=4.1.0
+black>=23.3.0
+flake8>=6.0.0
+mypy>=1.3.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# API serving (optional)
+fastapi>=0.95.0
+uvicorn>=0.22.0
+python-multipart>=0.0.6
