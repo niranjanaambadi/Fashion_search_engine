@@ -409,10 +409,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@niranjanaambadi](https://github.com/niranjanaambadi)
+- Email: niranjana13@gmail.com
+
 
 ## ⭐ Star History
 
